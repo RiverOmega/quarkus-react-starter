@@ -70,6 +70,6 @@ After starting application via:
 ./mvnw compile quarkus:dev
 ```
 
-Navigate to `localhost:8080` to access the react frontend
+Navigate to `localhost:3000` to access the react frontend
 
 The Quarkus dev-ui is availabel at `localhost:8080/q/dev-ui`.
